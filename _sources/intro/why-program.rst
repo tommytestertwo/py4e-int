@@ -1,6 +1,8 @@
 Why should you learn to write programs?
 =======================================
 
+Welcome!
+
 Writing programs (or programming) is a very creative and rewarding
 activity. You can write programs for many reasons, ranging from making
 your living to solving a difficult data analysis problem to having fun
